@@ -13,3 +13,7 @@
 .modal-backdrop.show {
     opacity: 1; /* Cambia la opacidad de 0.5 (por defecto) a 1 (totalmente opaco) */
 }
+.d-flex {
+  margin-top: 50px;
+  justify-content: space-around;
+}
